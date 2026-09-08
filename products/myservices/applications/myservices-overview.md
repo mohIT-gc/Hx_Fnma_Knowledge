@@ -24,6 +24,9 @@ MyServices is the servicing workflow platform for internal operators and partner
 - Coordinates status updates across downstream servicing systems.
 - Exposes internal APIs used by support tooling and operational dashboards.
 
+## REMOTE_CANARY_2026_09_08 
+- Check the github repo connectivity
+  
 ## Ownership
 
 - Product owner: MyServices Product and Platform Team
